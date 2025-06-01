@@ -1,0 +1,81 @@
+2025-05-28 15:40:35 [main] ERROR
+            by.mashnyuk.InformationHandling.io.TextFileReader - Failed to read file: input.txt
+java.nio.file.NoSuchFileException: input.txt
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:197) ~[?:?]
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1865) ~[?:?]
+	at java.base/java.nio.file.Files.size(Files.java:2474) ~[?:?]
+	at by.mashnyuk.InformationHandling.io.TextFileReader.readLines(TextFileReader.java:40) [classes/:?]
+	at by.mashnyuk.InformationHandling.Main.main(Main.java:45) [classes/:?]
+2025-05-28 15:40:35 [main] ERROR
+            by.mashnyuk.InformationHandling.Main - Application error
+by.mashnyuk.InformationHandling.exception.TextAnalysisException: Failed to read file: input.txt
+	at by.mashnyuk.InformationHandling.io.TextFileReader.readLines(TextFileReader.java:54) ~[classes/:?]
+	at by.mashnyuk.InformationHandling.Main.main(Main.java:45) [classes/:?]
+Caused by: java.nio.file.NoSuchFileException: input.txt
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:197) ~[?:?]
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1865) ~[?:?]
+	at java.base/java.nio.file.Files.size(Files.java:2474) ~[?:?]
+	at by.mashnyuk.InformationHandling.io.TextFileReader.readLines(TextFileReader.java:40) ~[classes/:?]
+	... 1 more
+2025-05-29 19:12:19 [main] ERROR
+            by.mashnyuk.InformationHandling.io.TextFileReader - Failed to read file: input.txt
+java.nio.file.NoSuchFileException: input.txt
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:197) ~[?:?]
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1865) ~[?:?]
+	at java.base/java.nio.file.Files.size(Files.java:2474) ~[?:?]
+	at by.mashnyuk.InformationHandling.io.TextFileReader.readLines(TextFileReader.java:40) [classes/:?]
+	at by.mashnyuk.InformationHandling.Main.main(Main.java:45) [classes/:?]
+2025-05-29 19:12:19 [main] ERROR
+            by.mashnyuk.InformationHandling.Main - Application error
+by.mashnyuk.InformationHandling.exception.TextAnalysisException: Failed to read file: input.txt
+	at by.mashnyuk.InformationHandling.io.TextFileReader.readLines(TextFileReader.java:54) ~[classes/:?]
+	at by.mashnyuk.InformationHandling.Main.main(Main.java:45) [classes/:?]
+Caused by: java.nio.file.NoSuchFileException: input.txt
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:197) ~[?:?]
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1865) ~[?:?]
+	at java.base/java.nio.file.Files.size(Files.java:2474) ~[?:?]
+	at by.mashnyuk.InformationHandling.io.TextFileReader.readLines(TextFileReader.java:40) ~[classes/:?]
+	... 1 more
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.InformationHandling.Main - === Original Text ===
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.InformationHandling.Main - 
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.InformationHandling.Main - 
+=== Sorted Paragraphs ===
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.InformationHandling.Main - 
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.InformationHandling.Main - 
+=== Sentences with Longest Word ===
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.InformationHandling.Main - 
+=== Filtered Text (min 5 words) ===
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.InformationHandling.Main - 
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.InformationHandling.Main - 
+=== Duplicate Words ===
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.InformationHandling.Main - 
+=== Vowel/Consonant Counts ===
