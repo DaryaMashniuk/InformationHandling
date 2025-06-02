@@ -1,0 +1,259 @@
+2025-05-28 15:40:35 [main] ERROR
+            by.mashnyuk.informationHandling.io.TextFileReader - Failed to read file: input.txt
+java.nio.file.NoSuchFileException: input.txt
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:197) ~[?:?]
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1865) ~[?:?]
+	at java.base/java.nio.file.Files.size(Files.java:2474) ~[?:?]
+	at by.mashnyuk.informationHandling.io.TextFileReader.readLines(TextFileReader.java:40) [classes/:?]
+	at by.mashnyuk.informationHandling.Main.main(Main.java:45) [classes/:?]
+2025-05-28 15:40:35 [main] ERROR
+            by.mashnyuk.informationHandling.Main - Application error
+by.mashnyuk.informationHandling.exception.TextAnalysisException: Failed to read file: input.txt
+	at by.mashnyuk.informationHandling.io.TextFileReader.readLines(TextFileReader.java:54) ~[classes/:?]
+	at by.mashnyuk.informationHandling.Main.main(Main.java:45) [classes/:?]
+Caused by: java.nio.file.NoSuchFileException: input.txt
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:197) ~[?:?]
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1865) ~[?:?]
+	at java.base/java.nio.file.Files.size(Files.java:2474) ~[?:?]
+	at by.mashnyuk.informationHandling.io.TextFileReader.readLines(TextFileReader.java:40) ~[classes/:?]
+	... 1 more
+2025-05-29 19:12:19 [main] ERROR
+            by.mashnyuk.informationHandling.io.TextFileReader - Failed to read file: input.txt
+java.nio.file.NoSuchFileException: input.txt
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:197) ~[?:?]
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1865) ~[?:?]
+	at java.base/java.nio.file.Files.size(Files.java:2474) ~[?:?]
+	at by.mashnyuk.informationHandling.io.TextFileReader.readLines(TextFileReader.java:40) [classes/:?]
+	at by.mashnyuk.informationHandling.Main.main(Main.java:45) [classes/:?]
+2025-05-29 19:12:19 [main] ERROR
+            by.mashnyuk.informationHandling.Main - Application error
+by.mashnyuk.informationHandling.exception.TextAnalysisException: Failed to read file: input.txt
+	at by.mashnyuk.informationHandling.io.TextFileReader.readLines(TextFileReader.java:54) ~[classes/:?]
+	at by.mashnyuk.informationHandling.Main.main(Main.java:45) [classes/:?]
+Caused by: java.nio.file.NoSuchFileException: input.txt
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:197) ~[?:?]
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1865) ~[?:?]
+	at java.base/java.nio.file.Files.size(Files.java:2474) ~[?:?]
+	at by.mashnyuk.informationHandling.io.TextFileReader.readLines(TextFileReader.java:40) ~[classes/:?]
+	... 1 more
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.informationHandling.Main - === Original Text ===
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Sorted Paragraphs ===
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Sentences with Longest Word ===
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Filtered Text (min 5 words) ===
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Duplicate Words ===
+2025-05-29 19:17:56 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Vowel/Consonant Counts ===
+2025-06-02 10:07:27 [main] INFO 
+            by.mashnyuk.informationHandling.Main - === Original Text ===
+2025-06-02 10:07:27 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:07:27 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Sorted Paragraphs ===
+2025-06-02 10:07:27 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:07:27 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Sentences with Longest Word ===
+2025-06-02 10:07:27 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Filtered Text (min 5 words) ===
+2025-06-02 10:07:27 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:07:27 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Duplicate Words ===
+2025-06-02 10:07:27 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Vowel/Consonant Counts ===
+2025-06-02 10:13:17 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Creating text structure from input:
+It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+remaining -3-5 essentially 6*9/(3+4) unchanged. It was popularised in the 5*(1+2*(3/(4-(1-56-
+47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker including versions of
+Lorem Ipsum.
+It is a long established fact that a reader will be distracted by the readable content of a page
+when looking at its layout. The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has
+a more-or-less normal distribution of letters, as opposed to using (Content here), content here',
+making it look like readable English.
+It is a (7+5*12*(2+5-2-71))/12 established fact that a reader will be of a page when looking
+at its layout.
+Bye.
+2025-06-02 10:13:17 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Found 1 paragraphs
+2025-06-02 10:13:17 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Added paragraph:
+2025-06-02 10:13:17 [main] INFO 
+            by.mashnyuk.informationHandling.creator.TextCreator - Created text structure with 0 paragraphs
+2025-06-02 10:13:17 [main] INFO 
+            by.mashnyuk.informationHandling.Main - === Original Text ===
+2025-06-02 10:13:17 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:13:17 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Sorted Paragraphs ===
+2025-06-02 10:13:17 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:13:17 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Sentences with Longest Word ===
+2025-06-02 10:13:17 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Filtered Text (min 5 words) ===
+2025-06-02 10:13:17 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:13:17 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Duplicate Words ===
+2025-06-02 10:13:17 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Vowel/Consonant Counts ===
+2025-06-02 10:33:15 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Creating text structure from input:
+It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+remaining -3-5 essentially 6*9/(3+4) unchanged. It was popularised in the 5*(1+2*(3/(4-(1-56-
+47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker including versions of
+Lorem Ipsum.
+It is a long established fact that a reader will be distracted by the readable content of a page
+when looking at its layout. The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has
+a more-or-less normal distribution of letters, as opposed to using (Content here), content here',
+making it look like readable English.
+It is a (7+5*12*(2+5-2-71))/12 established fact that a reader will be of a page when looking
+at its layout.
+Bye.
+2025-06-02 10:33:15 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Found 1 paragraphs
+2025-06-02 10:33:15 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Added paragraph:
+2025-06-02 10:33:15 [main] INFO 
+            by.mashnyuk.informationHandling.creator.TextCreator - Created text structure with 0 paragraphs
+2025-06-02 10:33:15 [main] INFO 
+            by.mashnyuk.informationHandling.Main - === Original Text ===
+2025-06-02 10:33:15 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:33:15 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Sorted Paragraphs ===
+2025-06-02 10:33:15 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:33:15 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Sentences with Longest Word ===
+2025-06-02 10:33:15 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Filtered Text (min 5 words) ===
+2025-06-02 10:33:15 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:33:15 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Duplicate Words ===
+2025-06-02 10:33:15 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Vowel/Consonant Counts ===
+2025-06-02 10:37:13 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Creating text structure from input:
+It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+remaining -3-5 essentially 6*9/(3+4) unchanged. It was popularised in the 5*(1+2*(3/(4-(1-56-
+47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker including versions of
+Lorem Ipsum.
+It is a long established fact that a reader will be distracted by the readable content of a page
+when looking at its layout. The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has
+a more-or-less normal distribution of letters, as opposed to using (Content here), content here',
+making it look like readable English.
+It is a (7+5*12*(2+5-2-71))/12 established fact that a reader will be of a page when looking
+at its layout.
+Bye.
+2025-06-02 10:37:13 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Found 5 paragraphs
+2025-06-02 10:37:13 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Added paragraph:
+2025-06-02 10:37:13 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Added paragraph:
+2025-06-02 10:37:13 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Added paragraph:
+2025-06-02 10:37:13 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Added paragraph:
+2025-06-02 10:37:13 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Added paragraph:
+2025-06-02 10:37:13 [main] INFO 
+            by.mashnyuk.informationHandling.creator.TextCreator - Created text structure with 0 paragraphs
+2025-06-02 10:37:13 [main] INFO 
+            by.mashnyuk.informationHandling.Main - === Original Text ===
+2025-06-02 10:37:13 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:37:13 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Sorted Paragraphs ===
+2025-06-02 10:37:13 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:37:13 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Sentences with Longest Word ===
+2025-06-02 10:37:13 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Filtered Text (min 5 words) ===
+2025-06-02 10:37:13 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+2025-06-02 10:37:13 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Duplicate Words ===
+2025-06-02 10:37:13 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Vowel/Consonant Counts ===
+2025-06-02 10:45:32 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Creating text structure from input:
+It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+remaining -3-5 essentially 6*9/(3+4) unchanged. It was popularised in the 5*(1+2*(3/(4-(1-56-
+47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker including versions of
+Lorem Ipsum.
+It is a long established fact that a reader will be distracted by the readable content of a page
+when looking at its layout. The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has
+a more-or-less normal distribution of letters, as opposed to using (Content here), content here',
+making it look like readable English.
+It is a (7+5*12*(2+5-2-71))/12 established fact that a reader will be of a page when looking
+at its layout.
+Bye.
+2025-06-02 10:45:32 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Found 5 paragraphs
+2025-06-02 10:45:32 [main] DEBUG
+            by.mashnyuk.informationHandling.creator.TextCreator - Added paragraph:

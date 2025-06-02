@@ -1,0 +1,240 @@
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - of: 6
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - has: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - readable: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - established: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - a: 7
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - using: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - like: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - will: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - more: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - its: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - is: 3
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - it: 6
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - layout: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - the: 5
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - with: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - at: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - ipsum: 3
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - looking: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - page: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main -
+=== Vowel/Consonant Counts ===
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'Thepointofusing(-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7Ipsumisthatithasamore-or-lessnormaldistributionofletters,asopposedtousing(Contenthere),contenthere',makingitlooklikereadableEnglish.'
+  Vowels: 55, Consonants: 83
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'Bye.'
+  Vowels: 1, Consonants: 2
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'LoremIpsum.'
+  Vowels: 4, Consonants: 6
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'Itwaspopularisedinthe5*(1+2*(3/(4-(1-56-47)*73)+(-89+4/(42/7)))+1)withthereleaseofLetrasetsheetscontainingLoremIpsumpassages,andmorerecentlywithdesktoppublishingsoftwarelikeAldusPageMakerincludingversionsof'
+  Vowels: 61, Consonants: 99
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'Itisa(7+5*12*(2+5-2-71))/12establishedfactthatareaderwillbeofapagewhenlookingatitslayout.'
+  Vowels: 28, Consonants: 38
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'Itisalongestablishedfactthatareaderwillbedistractedbythereadablecontentofapagewhenlookingatitslayout.'
+  Vowels: 39, Consonants: 61
+2025-06-02 12:11:24 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'Ithassurvived-notonly(five)centuries,butalsotheleapintoelectronictypesetting,remaining-3-5essentially6*9/(3+4)unchanged.'
+  Vowels: 39, Consonants: 62
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - === Original Text ===
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - -(five),,--*/7.0. *(+*(/(-(--)*)+(-+/6.0))+),. . (-+(+/(*4.5-)/+))/--,(),',. (+**-66.0)/. .
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sorted Paragraphs ===
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - -(five),,--*/7.0. *(+*(/(-(--)*)+(-+/6.0))+),. . (-+(+/(*4.5-)/+))/--,(),',. (+**-66.0)/. .
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sentences with Longest Word ===
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - -(five),,--*/7.0.
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - *(+*(/(-(--)*)+(-+/6.0))+),.
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - .
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - (-+(+/(*4.5-)/+))/--,(),',.
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - (+**-66.0)/.
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - .
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Filtered Text (min 5 words) ===
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - -(five),,--*/7.0. *(+*(/(-(--)*)+(-+/6.0))+),. . (-+(+/(*4.5-)/+))/--,(),',. (+**-66.0)/.
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Duplicate Words ===
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - : 610
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Vowel/Consonant Counts ===
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - '-(five),,--*/7.0.'
+  Vowels: 0, Consonants: 0
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - '*(+*(/(-(--)*)+(-+/6.0))+),.'
+  Vowels: 0, Consonants: 0
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - '(-+(+/(*4.5-)/+))/--,(),',.'
+  Vowels: 0, Consonants: 0
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - '(+**-66.0)/.'
+  Vowels: 0, Consonants: 0
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - '.'
+  Vowels: 0, Consonants: 0
+2025-06-02 12:32:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - '.'
+  Vowels: 0, Consonants: 0
+2025-06-02 13:24:29 [main] ERROR
+            by.mashnyuk.informationHandling.Main - Application error
+java.lang.ClassCastException: class by.mashnyuk.informationHandling.entity.CompositeTextComponent cannot be cast to class by.mashnyuk.informationHandling.entity.Text (by.mashnyuk.informationHandling.entity.CompositeTextComponent and by.mashnyuk.informationHandling.entity.Text are in unnamed module of loader 'app')
+	at by.mashnyuk.informationHandling.creator.TextCreator.createText(TextCreator.java:16) ~[classes/:?]
+	at by.mashnyuk.informationHandling.Main.main(Main.java:48) [classes/:?]
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - === Original Text ===
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - Ithassurvived-survived-notonly(only(five)five)centuries,centuries,butalsotheleapintoelectronictypesetting,typesetting,remaining-remaining-3-3-5essentially6*6*9/9/((3+3+4)4)unchanged.unchanged.Itwaspopularisedinthe5*5*((1+1+2*2*((3/3/((4-4-((1-1-56-56-47)47)**73)73)++((--89+89+4/4/((42/42/7)7)))))++1)1)withthereleaseofLetrasetsheetscontainingLoremIpsumpassages,passages,andmorerecentlywithdesktoppublishingsoftwarelikeAldusPageMakerincludingversionsofLoremIpsum.Ipsum.Itisalongestablishedfactthatareaderwillbedistractedbythereadablecontentofapagewhenlookingatitslayout.layout.Thepointofusing(using(--71+71+((2+2+3/3/((3*3*((2+2+1/1/2+2+2)2)--2)2)//10+10+2)2)))//7Ipsumisthatithasamore-more-or-or-lessnormaldistributionofletters,letters,asopposedtousing(using(Contenthere)here),,contenthere'here',,makingitlooklikereadableEnglish.English.Itisa(a(7+7+5*5*12*12*((2+2+5-5-2-2-71)71)))//12establishedfactthatareaderwillbeofapagewhenlookingatitslayout.layout.Bye.Bye.
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sorted Paragraphs ===
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - Ithassurvived-survived-notonly(only(five)five)centuries,centuries,butalsotheleapintoelectronictypesetting,typesetting,remaining-remaining-3-3-5essentially6*6*9/9/((3+3+4)4)unchanged.unchanged.Itwaspopularisedinthe5*5*((1+1+2*2*((3/3/((4-4-((1-1-56-56-47)47)**73)73)++((--89+89+4/4/((42/42/7)7)))))++1)1)withthereleaseofLetrasetsheetscontainingLoremIpsumpassages,passages,andmorerecentlywithdesktoppublishingsoftwarelikeAldusPageMakerincludingversionsofLoremIpsum.Ipsum.Itisalongestablishedfactthatareaderwillbedistractedbythereadablecontentofapagewhenlookingatitslayout.layout.Thepointofusing(using(--71+71+((2+2+3/3/((3*3*((2+2+1/1/2+2+2)2)--2)2)//10+10+2)2)))//7Ipsumisthatithasamore-more-or-or-lessnormaldistributionofletters,letters,asopposedtousing(using(Contenthere)here),,contenthere'here',,makingitlooklikereadableEnglish.English.Itisa(a(7+7+5*5*12*12*((2+2+5-5-2-2-71)71)))//12establishedfactthatareaderwillbeofapagewhenlookingatitslayout.layout.Bye.Bye.
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sentences with Longest Word ===
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - Thepointofusing(using(--71+71+((2+2+3/3/((3*3*((2+2+1/1/2+2+2)2)--2)2)//10+10+2)2)))//7Ipsumisthatithasamore-more-or-or-lessnormaldistributionofletters,letters,asopposedtousing(using(Contenthere)here),,contenthere'here',,makingitlooklikereadableEnglish.English.
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Filtered Text (min 5 words) ===
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - Ithassurvived-survived-notonly(only(five)five)centuries,centuries,butalsotheleapintoelectronictypesetting,typesetting,remaining-remaining-3-3-5essentially6*6*9/9/((3+3+4)4)unchanged.unchanged. Itwaspopularisedinthe5*5*((1+1+2*2*((3/3/((4-4-((1-1-56-56-47)47)**73)73)++((--89+89+4/4/((42/42/7)7)))))++1)1)withthereleaseofLetrasetsheetscontainingLoremIpsumpassages,passages,andmorerecentlywithdesktoppublishingsoftwarelikeAldusPageMakerincludingversionsofLoremIpsum.Ipsum. Itisalongestablishedfactthatareaderwillbedistractedbythereadablecontentofapagewhenlookingatitslayout.layout. Thepointofusing(using(--71+71+((2+2+3/3/((3*3*((2+2+1/1/2+2+2)2)--2)2)//10+10+2)2)))//7Ipsumisthatithasamore-more-or-or-lessnormaldistributionofletters,letters,asopposedtousing(using(Contenthere)here),,contenthere'here',,makingitlooklikereadableEnglish.English. Itisa(a(7+7+5*5*12*12*((2+2+5-5-2-2-71)71)))//12establishedfactthatareaderwillbeofapagewhenlookingatitslayout.layout.
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Duplicate Words ===
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 89: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 47: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - reader: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - when: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - that: 3
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - lorem: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - english: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - only: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - passages: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - has: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - five: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - letters: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 10: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - readable: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 12: 3
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 56: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - centuries: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - using: 4
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - like: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - its: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - is: 3
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - typesetting: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - survived: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - it: 6
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - remaining: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 1: 8
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 2: 18
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - at: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 3: 10
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 4: 6
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 5: 7
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 6: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 7: 5
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - ipsum: 4
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 9: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - looking: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - page: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - here: 4
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - be: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - fact: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - content: 3
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - of: 6
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 71: 4
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 73: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - established: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - a: 8
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - or: 2
+2025-06-02 13:26:54 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - will: 2
