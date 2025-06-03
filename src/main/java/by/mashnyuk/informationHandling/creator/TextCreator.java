@@ -1,17 +1,22 @@
 package by.mashnyuk.informationHandling.creator;
 
-
 import by.mashnyuk.informationHandling.entity.Text;
-import by.mashnyuk.informationHandling.parser.TextParser;
+import by.mashnyuk.informationHandling.parser.*;
 
 public class TextCreator {
-    private final TextParser parser;
+    private TextParser parserChain;
 
     public TextCreator() {
-        this.parser = new TextParser(); // создаём парсер
+        this.parserChain = new ParagraphParser(
+                new SentenceParser(
+                        new LexemeParser(
+                                new WordParser()
+                        )
+                )
+        );
     }
 
     public Text createText(String rawText) {
-        return parser.parse(rawText); // делегируем парсинг парсеру
+        return (Text) parserChain.parse(rawText);
     }
 }

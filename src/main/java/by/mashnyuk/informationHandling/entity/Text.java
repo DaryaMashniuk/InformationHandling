@@ -1,6 +1,11 @@
 package by.mashnyuk.informationHandling.entity;
 
-public class Text extends TextComponent {
+import java.util.ArrayList;
+import java.util.List;
+
+public class Text implements TextComponent {
+    private List<TextComponent> children = new ArrayList<>();
+
     @Override
     public String getText() {
         StringBuilder sb = new StringBuilder();
@@ -8,5 +13,15 @@ public class Text extends TextComponent {
             sb.append(paragraph.getText()).append("\n\n");
         }
         return sb.toString().trim();
+    }
+
+    @Override
+    public List<TextComponent> getChildren() {
+        return children;
+    }
+
+    @Override
+    public void add(TextComponent component) {
+        children.add(component);
     }
 }

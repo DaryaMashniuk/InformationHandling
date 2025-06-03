@@ -1,16 +1,29 @@
 package by.mashnyuk.informationHandling.entity;
 
-public class Expression extends TextComponent {
-    private final String expression;
-    private final String value;
+import java.util.Collections;
+import java.util.List;
 
-    public Expression(String expression, String value) {
-        this.expression = expression;
-        this.value = value;
+public class Expression implements TextComponent {
+    private String original;
+    private String evaluated;
+
+    public Expression(String original, String evaluated) {
+        this.original = original;
+        this.evaluated = evaluated;
     }
 
     @Override
     public String getText() {
-        return value;
+        return evaluated;
+    }
+
+    @Override
+    public List<TextComponent> getChildren() {
+        return Collections.emptyList();
+    }
+
+    @Override
+    public void add(TextComponent component) {
+        throw new UnsupportedOperationException("Expression cannot have children");
     }
 }

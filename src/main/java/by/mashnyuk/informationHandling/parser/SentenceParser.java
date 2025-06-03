@@ -1,36 +1,32 @@
 package by.mashnyuk.informationHandling.parser;
 
 import by.mashnyuk.informationHandling.entity.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
-// SentenceParser.java — переписанный с использованием Lexeme
-public class SentenceParser {
-    private static final String TOKEN_PATTERN = "\\w+|[^\\w\\s]";
-    private final Pattern tokenPattern = Pattern.compile(TOKEN_PATTERN);
+public class SentenceParser extends TextParser {
+    private static final String SENTENCE_SPLIT_REGEX = "(?<=[.!?])\\s+(?=[A-ZА-Я])";
 
-//    public TextComponent parse(String sentence) {
-//        Lexeme lexeme = new Lexeme();
-//        CompositeTextComponent sentenceComponent = new Sentence();
-//
-//        Matcher matcher = tokenPattern.matcher(sentence);
-//
-//        while (matcher.find()) {
-//            String token = matcher.group();
-//            if (token.matches("\\w+")) {
-//                lexeme = new Lexeme();
-//                lexeme.add(new Word(token));
-//            } else {
-//                lexeme.add(new Punctuation(token));
-//                sentenceComponent.add(lexeme);
-//                lexeme = new Lexeme(); // reset after punctuation
-//            }
-//
-//            if (!sentenceComponent.getChildren().contains(lexeme)) {
-//                sentenceComponent.add(lexeme);
-//            }
-//        }
-//
-//        return sentenceComponent;
-//    }
+    public SentenceParser(TextParser nextParser) {
+        super(nextParser);
+    }
+
+    @Override
+    public TextComponent parse(String text) {
+        Sentence resultSentence = new Sentence();
+        String[] sentences = text.split(SENTENCE_SPLIT_REGEX);
+
+        for (String sent : sentences) {
+            if (!sent.trim().isEmpty()) {
+                TextComponent parsed = nextParser.parse(sent.trim());
+                if (parsed instanceof Lexeme) {
+                    Sentence sentence = new Sentence();
+                    for (TextComponent lexeme : parsed.getChildren()) {
+                        sentence.add(lexeme);
+                    }
+                    resultSentence.add(sentence);
+                }
+            }
+        }
+
+        return resultSentence;
+    }
 }

@@ -1,18 +1,27 @@
 package by.mashnyuk.informationHandling.entity;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Word extends TextComponent {
-    private final String value;
+public class Word implements TextComponent {
+    private String text;
 
-    public Word(String value) {
-        this.value = value;
+    public Word(String text) {
+        this.text = text;
     }
 
     @Override
     public String getText() {
-        return value;
+        return text;
+    }
+
+    @Override
+    public List<TextComponent> getChildren() {
+        return Collections.emptyList();
+    }
+
+    @Override
+    public void add(TextComponent component) {
+        throw new UnsupportedOperationException("Word cannot have children");
     }
 }

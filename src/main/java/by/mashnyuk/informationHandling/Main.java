@@ -1,10 +1,9 @@
 package by.mashnyuk.informationHandling;
 
+import by.mashnyuk.informationHandling.creator.TextCreator;
 import by.mashnyuk.informationHandling.entity.Text;
 import by.mashnyuk.informationHandling.io.TextFileReader;
-import by.mashnyuk.informationHandling.parser.TextParser;
 import by.mashnyuk.informationHandling.service.TextAnalysisService;
-import by.mashnyuk.informationHandling.validator.TextValidator;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -15,56 +14,39 @@ public class Main {
 
     public static void main(String[] args) {
         try {
-            String fileName = "input.txt";
-            int minWordCount = 5;
-
-            TextValidator validator = new TextValidator();
-            TextFileReader reader = new TextFileReader();
-            TextParser parser = new TextParser();
+            TextCreator creator = new TextCreator();
             TextAnalysisService service = new TextAnalysisService();
+            TextFileReader reader = new TextFileReader();
 
-            // Валидация
-            if (!validator.isValidFileName(fileName)) {
-                logger.error("Invalid file name: {}", fileName);
-                return;
-            }
-
-            // Чтение файла
+            String fileName = "input.txt";
             List<String> lines = reader.readLines(fileName);
-            if (lines.isEmpty()) {
-                logger.error("File is empty or cannot be read: {}", fileName);
-                return;
-            }
-
-            // Парсинг текста
             String fullText = String.join("\n", lines);
-            Text text = parser.parse(fullText);
 
-            // Обработка текста
+            Text text = creator.createText(fullText);
+
             logger.info("=== Original Text ===");
             logger.info(text.getText());
 
-            // Сортировка абзацев
             Text sortedText = service.sortParagraphsBySentenceCount(text);
             logger.info("\n=== Sorted Paragraphs ===");
             logger.info(sortedText.getText());
 
-            // Поиск предложений с самым длинным словом
             logger.info("\n=== Sentences with Longest Word ===");
             service.findSentencesWithLongestWord(text).forEach(s ->
                     logger.info("- {}", s.getText()));
 
-            // Фильтрация предложений
-            Text filteredText = service.removeShortSentences(text, minWordCount);
-            logger.info("\n=== Filtered Text (min {} words) ===", minWordCount);
-            logger.info(filteredText.getText());
+            logger.info("\n=== Filtered Text (min 5 words) ===");
+            Text filteredText = service.removeShortSentences(text, 5);
+            if (filteredText.getChildren().isEmpty()) {
+                logger.info("No sentences with 5 or more words found");
+            } else {
+                logger.info(filteredText.getText());
+            }
 
-            // Поиск дубликатов слов
             logger.info("\n=== Duplicate Words ===");
             service.countDuplicateWords(text).forEach((word, count) ->
                     logger.info("- {}: {}", word, count));
 
-            // Подсчет гласных и согласных
             logger.info("\n=== Vowel/Consonant Counts ===");
             service.countVowelsAndConsonants(text).forEach((sentence, counts) ->
                     logger.info("- '{}'\n  Vowels: {}, Consonants: {}",

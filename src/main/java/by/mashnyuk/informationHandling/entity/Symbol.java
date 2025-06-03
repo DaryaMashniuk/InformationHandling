@@ -4,7 +4,7 @@ package by.mashnyuk.informationHandling.entity;
 import java.util.Collections;
 import java.util.List;
 
-public class Symbol extends TextComponent {
+public class Symbol implements TextComponent {
     private final char symbol;
 
     public Symbol(char symbol) {
