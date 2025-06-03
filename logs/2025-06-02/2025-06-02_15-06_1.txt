@@ -44,7 +44,7 @@
             by.mashnyuk.informationHandling.Main - - 'The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English.'
   Vowels: 55, Consonants: 83
 2025-06-02 14:39:37 [main] ERROR
-            by.mashnyuk.informationHandling.Main - Application error: class by.mashnyuk.informationHandling.entity.Paragraph cannot be cast to class by.mashnyuk.informationHandling.entity.Text (by.mashnyuk.informationHandling.entity.Paragraph and by.mashnyuk.informationHandling.entity.Text are in unnamed module of loader 'app')
+            by.mashnyuk.informationHandling.Main - Application error: class by.mashnyuk.informationHandling.entity.impl.Paragraph cannot be cast to class by.mashnyuk.informationHandling.entity.impl.Text (by.mashnyuk.informationHandling.entity.impl.Paragraph and by.mashnyuk.informationHandling.entity.impl.Text are in unnamed module of loader 'app')
 2025-06-02 14:55:57 [main] INFO 
             by.mashnyuk.informationHandling.Main - === Original Text ===
 2025-06-02 14:55:57 [main] INFO 

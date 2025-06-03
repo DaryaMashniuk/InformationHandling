@@ -3,78 +3,102 @@ package by.mashnyuk.informationHandling.parser;
 import java.util.*;
 
 public class ExpressionParser {
-    private static final String OPERATORS = "+-*/";
-    private static final String DELIMITERS = "()" + OPERATORS;
-    public static boolean flag = true;
+    private static final String OPERATORS = "+-*/^";
+    private static final String FUNCTIONS = "sin|cos|tan|sqrt";
+    private static final String NUMBER = "-?\\d+(\\.\\d+)?";
+    private static final String TOKENIZE_REGEX = "([+\\-*/^()])";
+    private boolean isValid = true;
 
-    private static boolean isDelimiter(String token) {
-        if (token.length() != 1) return false;
-        return DELIMITERS.contains(token);
+    public boolean isValid() {
+        return isValid;
     }
 
-    private static boolean isOperator(String token) {
-        return token.equals("u-") || OPERATORS.contains(token);
-    }
-
-    private static int priority(String token) {
-        switch (token) {
-            case "(": return 1;
-            case "+": case "-": return 2;
-            case "*": case "/": return 3;
-            default: return 4;
-        }
-    }
-
-    public static List<String> parse(String infix) {
-        List<String> postfix = new ArrayList<>();
+    public List<String> parse(String infix) {
+        List<String> output = new ArrayList<>();
         Deque<String> stack = new ArrayDeque<>();
-        StringTokenizer tokenizer = new StringTokenizer(infix, DELIMITERS, true);
-        String prev = "";
-        String curr;
+
+        StringTokenizer tokenizer = new StringTokenizer(
+                infix.replaceAll(TOKENIZE_REGEX, " $1 "),
+                " ", true);
+
+        String prevToken = "";
 
         while (tokenizer.hasMoreTokens()) {
-            curr = tokenizer.nextToken();
-            if (!tokenizer.hasMoreTokens() && isOperator(curr)) {
-                flag = false;
-                return postfix;
-            }
-            if (curr.equals(" ")) continue;
+            String token = tokenizer.nextToken().trim();
+            if (token.isEmpty()) continue;
 
-            if (isDelimiter(curr)) {
-                if (curr.equals("(")) {
-                    stack.push(curr);
-                } else if (curr.equals(")")) {
-                    while (!stack.isEmpty() && !stack.peek().equals("(")) {
-                        postfix.add(stack.pop());
-                    }
-                    if (stack.isEmpty()) {
-                        flag = false;
-                        return postfix;
-                    }
-                    stack.pop();
-                } else {
-                    if (curr.equals("-") && (prev.equals("") || (isDelimiter(prev) && !prev.equals(")")))) {
-                        curr = "u-";
-                    } else {
-                        while (!stack.isEmpty() && (priority(curr) <= priority(stack.peek()))) {
-                            postfix.add(stack.pop());
-                        }
-                    }
-                    stack.push(curr);
-                }
-            } else {
-                postfix.add(curr);
+            if (isNumber(token)) {
+                output.add(token);
             }
-            prev = curr;
+            else if (isFunction(token)) {
+                stack.push(token);
+            }
+            else if (token.equals("(")) {
+                stack.push(token);
+            }
+            else if (token.equals(")")) {
+                while (!stack.isEmpty() && !stack.peek().equals("(")) {
+                    output.add(stack.pop());
+                }
+                if (stack.isEmpty()) {
+                    isValid = false;
+                    return output;
+                }
+                stack.pop();
+                if (!stack.isEmpty() && isFunction(stack.peek())) {
+                    output.add(stack.pop());
+                }
+            }
+            else if (isOperator(token)) {
+
+                if (token.equals("-") && (prevToken.isEmpty() ||
+                        prevToken.equals("(") || isOperator(prevToken))) {
+                    token = "u-";
+                }
+
+                while (!stack.isEmpty() && isOperator(stack.peek()) &&
+                        getPriority(token) <= getPriority(stack.peek())) {
+                    output.add(stack.pop());
+                }
+                stack.push(token);
+            }
+
+            prevToken = token;
         }
 
         while (!stack.isEmpty()) {
-            if (isOperator(stack.peek())) postfix.add(stack.pop());
-            else {
-                flag = false;
-                return postfix;
+            String op = stack.pop();
+            if (op.equals("(")) {
+                isValid = false;
+                return output;
             }
+            output.add(op);
         }
-        return postfix;
+
+        return output;
+    }
+
+    private boolean isNumber(String token) {
+        return token.matches(NUMBER);
+    }
+
+    private boolean isOperator(String token) {
+        return OPERATORS.contains(token) || token.equals("u-");
+    }
+
+    private boolean isFunction(String token) {
+        return token.matches(FUNCTIONS);
+    }
+
+    private int getPriority(String op) {
+        switch (op) {
+            case "^": return 4;
+            case "u-": return 4;
+            case "*":
+            case "/": return 3;
+            case "+":
+            case "-": return 2;
+            default: return 0;
+        }
     }
 }

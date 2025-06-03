@@ -96,7 +96,7 @@
             by.mashnyuk.informationHandling.Main - 
 === Sentences with Longest Word ===
 2025-06-02 16:06:19 [main] ERROR
-            by.mashnyuk.informationHandling.Main - Application error: class by.mashnyuk.informationHandling.entity.Lexeme cannot be cast to class by.mashnyuk.informationHandling.entity.Sentence (by.mashnyuk.informationHandling.entity.Lexeme and by.mashnyuk.informationHandling.entity.Sentence are in unnamed module of loader 'app')
+            by.mashnyuk.informationHandling.Main - Application error: class by.mashnyuk.informationHandling.entity.impl.Lexeme cannot be cast to class by.mashnyuk.informationHandling.entity.impl.Sentence (by.mashnyuk.informationHandling.entity.impl.Lexeme and by.mashnyuk.informationHandling.entity.impl.Sentence are in unnamed module of loader 'app')
 2025-06-02 16:07:16 [main] INFO 
             by.mashnyuk.informationHandling.Main - === Original Text ===
 2025-06-02 16:07:16 [main] INFO 
@@ -110,7 +110,7 @@
             by.mashnyuk.informationHandling.Main - 
 === Sentences with Longest Word ===
 2025-06-02 16:07:16 [main] ERROR
-            by.mashnyuk.informationHandling.Main - Application error: class by.mashnyuk.informationHandling.entity.Lexeme cannot be cast to class by.mashnyuk.informationHandling.entity.Sentence (by.mashnyuk.informationHandling.entity.Lexeme and by.mashnyuk.informationHandling.entity.Sentence are in unnamed module of loader 'app')
+            by.mashnyuk.informationHandling.Main - Application error: class by.mashnyuk.informationHandling.entity.impl.Lexeme cannot be cast to class by.mashnyuk.informationHandling.entity.impl.Sentence (by.mashnyuk.informationHandling.entity.impl.Lexeme and by.mashnyuk.informationHandling.entity.impl.Sentence are in unnamed module of loader 'app')
 2025-06-02 16:07:55 [main] INFO 
             by.mashnyuk.informationHandling.Main - === Original Text ===
 2025-06-02 16:07:55 [main] INFO 
@@ -124,7 +124,7 @@
             by.mashnyuk.informationHandling.Main - 
 === Sentences with Longest Word ===
 2025-06-02 16:07:55 [main] ERROR
-            by.mashnyuk.informationHandling.Main - Application error: class by.mashnyuk.informationHandling.entity.Lexeme cannot be cast to class by.mashnyuk.informationHandling.entity.Sentence (by.mashnyuk.informationHandling.entity.Lexeme and by.mashnyuk.informationHandling.entity.Sentence are in unnamed module of loader 'app')
+            by.mashnyuk.informationHandling.Main - Application error: class by.mashnyuk.informationHandling.entity.impl.Lexeme cannot be cast to class by.mashnyuk.informationHandling.entity.impl.Sentence (by.mashnyuk.informationHandling.entity.impl.Lexeme and by.mashnyuk.informationHandling.entity.impl.Sentence are in unnamed module of loader 'app')
 2025-06-02 16:11:05 [main] INFO 
             by.mashnyuk.informationHandling.Main - === Original Text ===
 2025-06-02 16:11:05 [main] INFO 

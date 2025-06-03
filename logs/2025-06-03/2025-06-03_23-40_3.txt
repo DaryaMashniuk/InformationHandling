@@ -1,0 +1,225 @@
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - lorem: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - of: 6
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - has: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - readable: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - established: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - a: 7
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - using: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - like: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - will: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - more: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - its: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - is: 3
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - it: 6
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - layout: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - the: 5
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - with: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - at: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - ipsum: 3
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - looking: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - page: 2
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Vowel/Consonant Counts ===
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining -2 essentially 7.714285714285714 unchanged.'
+  Vowels: 39, Consonants: 62
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'It was popularised in the 906.6706935123043 with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.'
+  Vowels: 65, Consonants: 105
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.'
+  Vowels: 39, Consonants: 61
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'The point of using 10.718012422360248 Ipsum is that it has a more - or - less normal distribution of letters, as opposed to using (Content here) , content here', making it look like readable English.'
+  Vowels: 55, Consonants: 83
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'It is a -329.4166666666667 established fact that a reader will be of a page when looking at its layout.'
+  Vowels: 28, Consonants: 38
+2025-06-03 23:40:04 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'Bye.'
+  Vowels: 1, Consonants: 2
+2025-06-03 23:40:44 [main] DEBUG
+            by.mashnyuk.informationHandling.parser.ParagraphParser - paragraphs: It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+remaining -3-5 essentially 6*9/(3+4) unchanged. It was popularised in the 5*(1+2*(3/(4-(1-56-
+47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker including versions of
+Lorem Ipsum.
+It is a long established fact that a reader will be distracted by the readable content of a page
+when looking at its layout. The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has
+a more-or-less normal distribution of letters, as opposed to using (Content here), content here',
+making it look like readable English.
+It is a (7+5*12*(2+5-2-71))/12 established fact that a reader will be of a page when looking
+at its layout.
+Bye.
+2025-06-03 23:40:44 [main] DEBUG
+            by.mashnyuk.informationHandling.parser.SentenceParser - Sentences It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+remaining -3-5 essentially 6*9/(3+4) unchanged.
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.Main - === Original Text ===
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.Main - It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining -2 essentially 7.714285714285714 unchanged. It was popularised in the 906.6706935123043 with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using 10.718012422360248 Ipsum is that it has a more - or - less normal distribution of letters, as opposed to using (Content here) , content here', making it look like readable English. It is a -329.4166666666667 established fact that a reader will be of a page when looking at its layout. Bye.
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sorted Paragraphs ===
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.Main - It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining -2 essentially 7.714285714285714 unchanged. It was popularised in the 906.6706935123043 with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using 10.718012422360248 Ipsum is that it has a more - or - less normal distribution of letters, as opposed to using (Content here) , content here', making it look like readable English. It is a -329.4166666666667 established fact that a reader will be of a page when looking at its layout. Bye.
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sentences with Longest Word ===
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component It 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component has 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component survived 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component - 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component not 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component only 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component (five) 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component centuries, 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component but 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component also 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component the 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component leap 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component into 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component electronic 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component typesetting, 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component remaining 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component -2 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component essentially 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component 7.714285714285714 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component unchanged. 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Longest word length: 11
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component It 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component was 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component popularised 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component in 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component the 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component 906.6706935123043 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component with 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component the 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component release 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component of 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component Letraset 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component sheets 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component containing 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component Lorem 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component Ipsum 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component passages, 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component and 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component more 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component recently 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component with 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component desktop 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component publishing 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component software 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component like 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component Aldus 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component PageMaker 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component including 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component versions 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component of 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component Lorem 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component Ipsum. 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Longest word length: 11
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component It 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component is 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component a 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component long 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component established 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component fact 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component that 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component a 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component reader 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component will 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component be 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component distracted 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component by 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component the 
+2025-06-03 23:40:44 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Component readable 

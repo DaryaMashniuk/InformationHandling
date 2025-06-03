@@ -1,7 +1,7 @@
 package by.mashnyuk.informationHandling;
 
 import by.mashnyuk.informationHandling.creator.TextCreator;
-import by.mashnyuk.informationHandling.entity.Text;
+import by.mashnyuk.informationHandling.entity.impl.Text;
 import by.mashnyuk.informationHandling.io.TextFileReader;
 import by.mashnyuk.informationHandling.service.TextAnalysisService;
 import org.apache.logging.log4j.LogManager;

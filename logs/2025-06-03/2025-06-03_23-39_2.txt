@@ -1,0 +1,178 @@
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@fbd1f6 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@65e98b1c 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@61322f9d 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@6ad82709 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@510f3d34 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@7817fd62 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@8297b3a 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@2362f559 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@b2c9a9c 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@4c178a76 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@fa4c865 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@3bd82cf5 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@544fa968 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@247bddad 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@d35dea7 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@7770f470 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@5e5d171f 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@24313fcc 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@7d20d0b 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@77f1baf5 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@41a2befb 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Longest word length: 0
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@6c40365c 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@7bedc48a 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@131ef10 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@55b0dcab 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@38afe297 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@2df3b89c 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@23348b5d 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@70325e14 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@37ceb1df 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@7c9d8e2 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@20d525 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@6200f9cb 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@2002fc1d 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@69453e37 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@6f4a47c7 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@ae13544 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@3d34d211 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@7dc0f706 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@4009e306 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@43c1b556 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@587e5365 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@22fcf7ab 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@2de23121 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@63475ace 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Longest word length: 0
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@4988d8b8 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@c0c2f8d 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@305b7c14 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@6913c1fb 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@66d18979 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@bccb269 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@609cd4d8 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@17f7cd29 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@7d8704ef 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@13b6aecc 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@158a8276 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@3c3d9b6b 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@79d8407f 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@5fbe4146 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@1e66f1f5 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@4e50c791 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@7530ad9c 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@58a9760d 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@71e9ddb4 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@394df057 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@4961f6af 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@5aebe890 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@65d09a04 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@33c911a1 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@75db5df9 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@707194ba 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@1190200a 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@6a2f6f80 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@45b4c3a9 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@399c4be1 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@291caca8 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@385e9564 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@5b94b04d 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@8c3b9d 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Longest word length: 0
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@4c39bec8 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@f79e 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@7ee8290b 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@1f59a598 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@1e178745 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@192c3f1e 
+2025-06-03 23:39:04 [main] INFO 
+            by.mashnyuk.informationHandling.service.TextAnalysisService - Lexeme by.mashnyuk.informationHandling.entity.impl.Lexeme@26b3fd41 

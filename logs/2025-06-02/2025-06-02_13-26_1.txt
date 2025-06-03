@@ -117,7 +117,7 @@
   Vowels: 0, Consonants: 0
 2025-06-02 13:24:29 [main] ERROR
             by.mashnyuk.informationHandling.Main - Application error
-java.lang.ClassCastException: class by.mashnyuk.informationHandling.entity.CompositeTextComponent cannot be cast to class by.mashnyuk.informationHandling.entity.Text (by.mashnyuk.informationHandling.entity.CompositeTextComponent and by.mashnyuk.informationHandling.entity.Text are in unnamed module of loader 'app')
+java.lang.ClassCastException: class by.mashnyuk.informationHandling.entity.CompositeTextComponent cannot be cast to class by.mashnyuk.informationHandling.entity.impl.Text (by.mashnyuk.informationHandling.entity.CompositeTextComponent and by.mashnyuk.informationHandling.entity.impl.Text are in unnamed module of loader 'app')
 	at by.mashnyuk.informationHandling.creator.TextCreator.createText(TextCreator.java:16) ~[classes/:?]
 	at by.mashnyuk.informationHandling.Main.main(Main.java:48) [classes/:?]
 2025-06-02 13:26:54 [main] INFO 

@@ -1,0 +1,252 @@
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: c
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: r
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: o
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: c
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: y
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: p
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: s
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: g
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: ,
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: r
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: m
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: g
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found expression: -3-5
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: s
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: s
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: l
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: l
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: y
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found expression: 6*9/(3+4)
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: u
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: c
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: h
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: g
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: d
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: I
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: w
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: s
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: p
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: o
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: p
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: u
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: l
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: r
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: s
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: d
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: h
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found expression: 5*(1+2*(3/(4-(1-56-47)*73)+(-89+4/(42/7)))+1)
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: w
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: h
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: h
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: r
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: l
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: s
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: o
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: f
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: L
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: r
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: s
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: s
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: h
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: s
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: c
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: o
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: g
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: L
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: o
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: r
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: m
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: I
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: p
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: s
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: u
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: m
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: p
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a

@@ -1,13 +1,17 @@
 package by.mashnyuk.informationHandling.service;
 
 import by.mashnyuk.informationHandling.entity.*;
+import by.mashnyuk.informationHandling.entity.impl.*;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.*;
 import java.util.stream.Collectors;
 
 public class TextAnalysisService {
     private static final String VOWELS = "aeiouAEIOUаеёиоуыэюяАЕЁИОУЫЭЮЯ";
-
+    private static final String LEXEMA_REGEX = "[^a-zA-Zа-яА-ЯёЁ]";
+    private static final Logger log = LogManager.getLogger();
     public Text sortParagraphsBySentenceCount(Text text) {
         List<Paragraph> paragraphs = text.getChildren().stream()
                 .filter(p -> p instanceof Paragraph)
@@ -29,7 +33,7 @@ public class TextAnalysisService {
         for (TextComponent paragraph : text.getChildren()) {
             for (TextComponent sentence : paragraph.getChildren()) {
                 int currentMax = findLongestWordLength((Sentence) sentence);
-
+                log.info("Longest word length: " + currentMax);
                 if (currentMax > maxLength) {
                     maxLength = currentMax;
                     result.clear();
@@ -100,9 +104,7 @@ public class TextAnalysisService {
         int count = 0;
         for (TextComponent lexeme : sentence.getChildren()) {
             for (TextComponent component : lexeme.getChildren()) {
-                if (component instanceof Word || component instanceof Expression) {
                     count++;
-                }
             }
         }
         return count;
@@ -112,10 +114,8 @@ public class TextAnalysisService {
         int maxLength = 0;
         for (TextComponent lexeme : sentence.getChildren()) {
             for (TextComponent component : lexeme.getChildren()) {
-                if (component instanceof Word) {
-                    String word = component.getText().replaceAll("[^a-zA-Zа-яА-ЯёЁ]", "");
+                    String word = component.getText().replaceAll(LEXEMA_REGEX, "");
                     maxLength = Math.max(maxLength, word.length());
-                }
             }
         }
         return maxLength;

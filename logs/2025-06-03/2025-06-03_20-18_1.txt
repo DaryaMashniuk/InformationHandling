@@ -1,0 +1,197 @@
+2025-06-03 20:08:57 [main] DEBUG
+            by.mashnyuk.informationHandling.parser.SentenceParser - Sentences It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+remaining -3-5 essentially 6*9/(3+4) unchanged.
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - === Original Text ===
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining -3-5 essentially 6*9/ 7 unchanged. It was popularised in the 5*(1+2*(3/ (4-(1-56- 47)*73) + -88.33333333333333 )+1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (-71+(2+3/ 11.5 /10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here) , content here', making it look like readable English. It is a -3953 /12 established fact that a reader will be of a page when looking at its layout. Bye.
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sorted Paragraphs ===
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining -3-5 essentially 6*9/ 7 unchanged. It was popularised in the 5*(1+2*(3/ (4-(1-56- 47)*73) + -88.33333333333333 )+1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (-71+(2+3/ 11.5 /10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here) , content here', making it look like readable English. It is a -3953 /12 established fact that a reader will be of a page when looking at its layout. Bye.
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sentences with Longest Word ===
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining -3-5 essentially 6*9/ 7 unchanged.
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - It was popularised in the 5*(1+2*(3/ (4-(1-56- 47)*73) + -88.33333333333333 )+1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - The point of using (-71+(2+3/ 11.5 /10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here) , content here', making it look like readable English.
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - It is a -3953 /12 established fact that a reader will be of a page when looking at its layout.
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - Bye.
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Filtered Text (min 5 words) ===
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - No sentences with 5 or more words found
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Duplicate Words ===
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - here: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - be: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - fact: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - reader: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - when: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - content: 3
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - that: 3
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - lorem: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - of: 6
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - has: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - readable: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - established: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - a: 7
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - using: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - like: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - will: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - more: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - its: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - is: 3
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - it: 6
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - layout: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - the: 5
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - with: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - at: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - ipsum: 3
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - looking: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - page: 2
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Vowel/Consonant Counts ===
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining -3-5 essentially 6*9/ 7 unchanged.'
+  Vowels: 39, Consonants: 62
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'It was popularised in the 5*(1+2*(3/ (4-(1-56- 47)*73) + -88.33333333333333 )+1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.'
+  Vowels: 65, Consonants: 105
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.'
+  Vowels: 39, Consonants: 61
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'The point of using (-71+(2+3/ 11.5 /10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here) , content here', making it look like readable English.'
+  Vowels: 55, Consonants: 83
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'It is a -3953 /12 established fact that a reader will be of a page when looking at its layout.'
+  Vowels: 28, Consonants: 38
+2025-06-03 20:08:57 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'Bye.'
+  Vowels: 1, Consonants: 2
+2025-06-03 20:18:12 [main] DEBUG
+            by.mashnyuk.informationHandling.parser.ParagraphParser - paragraphs: It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+remaining -3-5 essentially 6*9/(3+4) unchanged. It was popularised in the 5*(1+2*(3/(4-(1-56-
+47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker including versions of
+Lorem Ipsum.
+It is a long established fact that a reader will be distracted by the readable content of a page
+when looking at its layout. The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has
+a more-or-less normal distribution of letters, as opposed to using (Content here), content here',
+making it look like readable English.
+It is a (7+5*12*(2+5-2-71))/12 established fact that a reader will be of a page when looking
+at its layout.
+Bye.
+2025-06-03 20:18:12 [main] DEBUG
+            by.mashnyuk.informationHandling.parser.SentenceParser - Sentences It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+remaining -3-5 essentially 6*9/(3+4) unchanged.
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found expression: (five)
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found expression: (3+4)
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found expression: (4-(1-56-
+47)*73)
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found expression: (-89+4/(42/7))
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found expression: (3*(2+1/2+2)-2)
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found expression: (Content here)
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found expression: (7+5*12*(2+5-2-71))
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - === Original Text ===
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - It has survived - not only five centuries, but also the leap into electronic typesetting, remaining -3-5 essentially 6*9/ 7 unchanged. It was popularised in the 5*(1+2*(3/ 7450 + -88.33333333333333 )+1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (-71+(2+3/ 11.5 /10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here) , content here', making it look like readable English. It is a -3953 /12 established fact that a reader will be of a page when looking at its layout. Bye.
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sorted Paragraphs ===
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - It has survived - not only five centuries, but also the leap into electronic typesetting, remaining -3-5 essentially 6*9/ 7 unchanged. It was popularised in the 5*(1+2*(3/ 7450 + -88.33333333333333 )+1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (-71+(2+3/ 11.5 /10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here) , content here', making it look like readable English. It is a -3953 /12 established fact that a reader will be of a page when looking at its layout. Bye.
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sentences with Longest Word ===
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - It has survived - not only five centuries, but also the leap into electronic typesetting, remaining -3-5 essentially 6*9/ 7 unchanged.
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - It was popularised in the 5*(1+2*(3/ 7450 + -88.33333333333333 )+1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - The point of using (-71+(2+3/ 11.5 /10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here) , content here', making it look like readable English.
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - It is a -3953 /12 established fact that a reader will be of a page when looking at its layout.
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - Bye.
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Filtered Text (min 5 words) ===
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - No sentences with 5 or more words found
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Duplicate Words ===
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - be: 2
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - fact: 2
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - reader: 2
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - when: 2
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - content: 2
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - that: 3
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - lorem: 2
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - of: 6
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - has: 2
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - readable: 2
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - established: 2
+2025-06-03 20:18:12 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - a: 7

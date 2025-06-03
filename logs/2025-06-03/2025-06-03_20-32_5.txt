@@ -1,0 +1,194 @@
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: r
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: w
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: l
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: l
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: b
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: o
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: f
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: p
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: g
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: w
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: h
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: l
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: o
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: o
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: k
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: n
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: g
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: i
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: s
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: l
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: a
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: y
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: o
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: u
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: t
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: B
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: y
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: e
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - === Original Text ===
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - I t h a s s u r v i v e d - n o t o n l y ( f i v e ) c e n t u r i e s , b u t a l s o t h e l e a p i n t o e l e c t r o n i c t y p e s e t t i n g , r e m a i n i n g -2 e s s e n t i a l l y 7.714285714285714 u n c h a n g e d . I t w a s p o p u l a r i s e d i n t h e 906.6706935123043 w i t h t h e r e l e a s e o f L e t r a s e t s h e e t s c o n t a i n i n g L o r e m I p s u m p a s s a g e s , a n d m o r e r e c e n t l y w i t h d e s k t o p p u b l i s h i n g s o f t w a r e l i k e A l d u s P a g e M a k e r i n c l u d i n g v e r s i o n s o f L o r e m I p s u m . I t i s a l o n g e s t a b l i s h e d f a c t t h a t a r e a d e r w i l l b e d i s t r a c t e d b y t h e r e a d a b l e c o n t e n t o f a p a g e w h e n l o o k i n g a t i t s l a y o u t . T h e p o i n t o f u s i n g 10.718012422360248 I p s u m i s t h a t i t h a s a m o r e - o r - l e s s n o r m a l d i s t r i b u t i o n o f l e t t e r s , a s o p p o s e d t o u s i n g ( C o n t e n t h e r e ) , c o n t e n t h e r e ' , m a k i n g i t l o o k l i k e r e a d a b l e E n g l i s h . I t i s a -329.4166666666667 e s t a b l i s h e d f a c t t h a t a r e a d e r w i l l b e o f a p a g e w h e n l o o k i n g a t i t s l a y o u t . B y e .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sorted Paragraphs ===
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - I t h a s s u r v i v e d - n o t o n l y ( f i v e ) c e n t u r i e s , b u t a l s o t h e l e a p i n t o e l e c t r o n i c t y p e s e t t i n g , r e m a i n i n g -2 e s s e n t i a l l y 7.714285714285714 u n c h a n g e d . I t w a s p o p u l a r i s e d i n t h e 906.6706935123043 w i t h t h e r e l e a s e o f L e t r a s e t s h e e t s c o n t a i n i n g L o r e m I p s u m p a s s a g e s , a n d m o r e r e c e n t l y w i t h d e s k t o p p u b l i s h i n g s o f t w a r e l i k e A l d u s P a g e M a k e r i n c l u d i n g v e r s i o n s o f L o r e m I p s u m . I t i s a l o n g e s t a b l i s h e d f a c t t h a t a r e a d e r w i l l b e d i s t r a c t e d b y t h e r e a d a b l e c o n t e n t o f a p a g e w h e n l o o k i n g a t i t s l a y o u t . T h e p o i n t o f u s i n g 10.718012422360248 I p s u m i s t h a t i t h a s a m o r e - o r - l e s s n o r m a l d i s t r i b u t i o n o f l e t t e r s , a s o p p o s e d t o u s i n g ( C o n t e n t h e r e ) , c o n t e n t h e r e ' , m a k i n g i t l o o k l i k e r e a d a b l e E n g l i s h . I t i s a -329.4166666666667 e s t a b l i s h e d f a c t t h a t a r e a d e r w i l l b e o f a p a g e w h e n l o o k i n g a t i t s l a y o u t . B y e .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sentences with Longest Word ===
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - I t h a s s u r v i v e d - n o t o n l y ( f i v e ) c e n t u r i e s , b u t a l s o t h e l e a p i n t o e l e c t r o n i c t y p e s e t t i n g , r e m a i n i n g -2 e s s e n t i a l l y 7.714285714285714 u n c h a n g e d .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - I t w a s p o p u l a r i s e d i n t h e 906.6706935123043 w i t h t h e r e l e a s e o f L e t r a s e t s h e e t s c o n t a i n i n g L o r e m I p s u m p a s s a g e s , a n d m o r e r e c e n t l y w i t h d e s k t o p p u b l i s h i n g s o f t w a r e l i k e A l d u s P a g e M a k e r i n c l u d i n g v e r s i o n s o f L o r e m I p s u m .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - I t i s a l o n g e s t a b l i s h e d f a c t t h a t a r e a d e r w i l l b e d i s t r a c t e d b y t h e r e a d a b l e c o n t e n t o f a p a g e w h e n l o o k i n g a t i t s l a y o u t .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - T h e p o i n t o f u s i n g 10.718012422360248 I p s u m i s t h a t i t h a s a m o r e - o r - l e s s n o r m a l d i s t r i b u t i o n o f l e t t e r s , a s o p p o s e d t o u s i n g ( C o n t e n t h e r e ) , c o n t e n t h e r e ' , m a k i n g i t l o o k l i k e r e a d a b l e E n g l i s h .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - I t i s a -329.4166666666667 e s t a b l i s h e d f a c t t h a t a r e a d e r w i l l b e o f a p a g e w h e n l o o k i n g a t i t s l a y o u t .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - B y e .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Filtered Text (min 5 words) ===
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - I t h a s s u r v i v e d - n o t o n l y ( f i v e ) c e n t u r i e s , b u t a l s o t h e l e a p i n t o e l e c t r o n i c t y p e s e t t i n g , r e m a i n i n g -2 e s s e n t i a l l y 7.714285714285714 u n c h a n g e d . T h e p o i n t o f u s i n g 10.718012422360248 I p s u m i s t h a t i t h a s a m o r e - o r - l e s s n o r m a l d i s t r i b u t i o n o f l e t t e r s , a s o p p o s e d t o u s i n g ( C o n t e n t h e r e ) , c o n t e n t h e r e ' , m a k i n g i t l o o k l i k e r e a d a b l e E n g l i s h .
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Duplicate Words ===
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - a: 49
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - b: 11
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - c: 13
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - d: 17
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - e: 72
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - f: 10
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - g: 17
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - h: 22
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - i: 51
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - k: 8
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - l: 35
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - m: 11
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - n: 39
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - o: 39
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - p: 16
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - r: 28
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - s: 45
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - t: 59
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - u: 16
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - v: 4
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - w: 8
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - y: 8
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Vowel/Consonant Counts ===
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'I t h a s s u r v i v e d - n o t o n l y ( f i v e ) c e n t u r i e s , b u t a l s o t h e l e a p i n t o e l e c t r o n i c t y p e s e t t i n g , r e m a i n i n g -2 e s s e n t i a l l y 7.714285714285714 u n c h a n g e d .'
+  Vowels: 39, Consonants: 62
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'I t w a s p o p u l a r i s e d i n t h e 906.6706935123043 w i t h t h e r e l e a s e o f L e t r a s e t s h e e t s c o n t a i n i n g L o r e m I p s u m p a s s a g e s , a n d m o r e r e c e n t l y w i t h d e s k t o p p u b l i s h i n g s o f t w a r e l i k e A l d u s P a g e M a k e r i n c l u d i n g v e r s i o n s o f L o r e m I p s u m .'
+  Vowels: 65, Consonants: 105
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'I t i s a l o n g e s t a b l i s h e d f a c t t h a t a r e a d e r w i l l b e d i s t r a c t e d b y t h e r e a d a b l e c o n t e n t o f a p a g e w h e n l o o k i n g a t i t s l a y o u t .'
+  Vowels: 39, Consonants: 61
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'T h e p o i n t o f u s i n g 10.718012422360248 I p s u m i s t h a t i t h a s a m o r e - o r - l e s s n o r m a l d i s t r i b u t i o n o f l e t t e r s , a s o p p o s e d t o u s i n g ( C o n t e n t h e r e ) , c o n t e n t h e r e ' , m a k i n g i t l o o k l i k e r e a d a b l e E n g l i s h .'
+  Vowels: 55, Consonants: 83
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'I t i s a -329.4166666666667 e s t a b l i s h e d f a c t t h a t a r e a d e r w i l l b e o f a p a g e w h e n l o o k i n g a t i t s l a y o u t .'
+  Vowels: 28, Consonants: 38
+2025-06-03 20:32:28 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - 'B y e .'
+  Vowels: 1, Consonants: 2
+2025-06-03 20:32:47 [main] DEBUG
+            by.mashnyuk.informationHandling.parser.ParagraphParser - paragraphs: It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+remaining -3-5 essentially 6*9/(3+4) unchanged. It was popularised in the 5*(1+2*(3/(4-(1-56-
+47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker including versions of
+Lorem Ipsum.
+It is a long established fact that a reader will be distracted by the readable content of a page
+when looking at its layout. The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has
+a more-or-less normal distribution of letters, as opposed to using (Content here), content here',
+making it look like readable English.
+It is a (7+5*12*(2+5-2-71))/12 established fact that a reader will be of a page when looking
+at its layout.
+Bye.

@@ -1,6 +1,6 @@
 package by.mashnyuk.informationHandling.creator;
 
-import by.mashnyuk.informationHandling.entity.Text;
+import by.mashnyuk.informationHandling.entity.impl.Text;
 import by.mashnyuk.informationHandling.parser.*;
 
 public class TextCreator {
