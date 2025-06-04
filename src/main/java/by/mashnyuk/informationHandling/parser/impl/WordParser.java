@@ -1,9 +1,10 @@
-package by.mashnyuk.informationHandling.parser;
+package by.mashnyuk.informationHandling.parser.impl;
 
 import by.mashnyuk.informationHandling.entity.TextComponent;
 import by.mashnyuk.informationHandling.entity.impl.Lexeme;
 import by.mashnyuk.informationHandling.entity.impl.Punctuation;
 import by.mashnyuk.informationHandling.entity.impl.Word;
+import by.mashnyuk.informationHandling.parser.TextParser;
 
 public class WordParser extends TextParser {
     private static final String WORD_REGEX = "[a-zA-Zа-яА-ЯёЁ]+";

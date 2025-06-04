@@ -4,6 +4,7 @@ import by.mashnyuk.informationHandling.creator.TextCreator;
 import by.mashnyuk.informationHandling.entity.impl.Text;
 import by.mashnyuk.informationHandling.io.TextFileReader;
 import by.mashnyuk.informationHandling.service.TextAnalysisService;
+import by.mashnyuk.informationHandling.service.impl.TextAnalysisServiceImpl;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -15,7 +16,7 @@ public class Main {
     public static void main(String[] args) {
         try {
             TextCreator creator = new TextCreator();
-            TextAnalysisService service = new TextAnalysisService();
+            TextAnalysisService service = new TextAnalysisServiceImpl();
             TextFileReader reader = new TextFileReader();
 
             String fileName = "input.txt";

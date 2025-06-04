@@ -1,5 +1,5 @@
 2025-06-03 20:32:47 [main] DEBUG
-            by.mashnyuk.informationHandling.parser.SentenceParser - Sentences It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+            by.mashnyuk.informationHandling.parser.impl.SentenceParser - Sentences It has survived - not only (five) centuries, but also the leap into electronic typesetting,
 remaining -3-5 essentially 6*9/(3+4) unchanged.
 2025-06-03 20:32:47 [main] INFO 
             by.mashnyuk.informationHandling.parser.LexemeParser - Found regular text: I

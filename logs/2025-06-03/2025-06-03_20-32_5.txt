@@ -180,7 +180,7 @@
             by.mashnyuk.informationHandling.Main - - 'B y e .'
   Vowels: 1, Consonants: 2
 2025-06-03 20:32:47 [main] DEBUG
-            by.mashnyuk.informationHandling.parser.ParagraphParser - paragraphs: It has survived - not only (five) centuries, but also the leap into electronic typesetting,
+            by.mashnyuk.informationHandling.parser.impl.ParagraphParser - paragraphs: It has survived - not only (five) centuries, but also the leap into electronic typesetting,
 remaining -3-5 essentially 6*9/(3+4) unchanged. It was popularised in the 5*(1+2*(3/(4-(1-56-
 47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages,
 and more recently with desktop publishing software like Aldus PageMaker including versions of

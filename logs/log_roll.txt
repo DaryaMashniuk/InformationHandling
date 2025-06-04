@@ -1,21 +1,105 @@
-2025-06-04 00:01:25 [main] INFO 
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sorted Paragraphs ===
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - It has survived - not only ( five ) centuries, but also the leap into electronic typesetting, remaining -2 essentially 7.714285714285714 unchanged. It was popularised in the 906.6706935123043 with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using 10.718012422360248 Ipsum is that it has a more - or - less normal distribution of letters, as opposed to using ( Content here ) , content here', making it look like readable English. It is a -329.4166666666667 established fact that a reader will be of a page when looking at its layout. Bye.
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Sentences with Longest Word ===
+2025-06-04 09:37:45 [main] INFO 
+            mashnyuk.informationHandling.service.impl.TextAnalysisServiceImpl - Longest word length: 11
+2025-06-04 09:37:45 [main] INFO 
+            mashnyuk.informationHandling.service.impl.TextAnalysisServiceImpl - Longest word length: 11
+2025-06-04 09:37:45 [main] INFO 
+            mashnyuk.informationHandling.service.impl.TextAnalysisServiceImpl - Longest word length: 11
+2025-06-04 09:37:45 [main] INFO 
+            mashnyuk.informationHandling.service.impl.TextAnalysisServiceImpl - Longest word length: 12
+2025-06-04 09:37:45 [main] INFO 
+            mashnyuk.informationHandling.service.impl.TextAnalysisServiceImpl - Longest word length: 11
+2025-06-04 09:37:45 [main] INFO 
+            mashnyuk.informationHandling.service.impl.TextAnalysisServiceImpl - Longest word length: 3
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - The point of using 10.718012422360248 Ipsum is that it has a more - or - less normal distribution of letters, as opposed to using ( Content here ) , content here', making it look like readable English.
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Filtered Text (min 5 words) ===
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - It has survived - not only ( five ) centuries, but also the leap into electronic typesetting, remaining -2 essentially 7.714285714285714 unchanged. It was popularised in the 906.6706935123043 with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using 10.718012422360248 Ipsum is that it has a more - or - less normal distribution of letters, as opposed to using ( Content here ) , content here', making it look like readable English. It is a -329.4166666666667 established fact that a reader will be of a page when looking at its layout.
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - 
+=== Duplicate Words ===
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - here: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - be: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - fact: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - reader: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - when: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - content: 3
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - that: 3
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - lorem: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - of: 6
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - has: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - readable: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - established: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - a: 7
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - using: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - like: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - will: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - more: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - its: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - is: 3
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - it: 6
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - layout: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - the: 5
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - with: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - at: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - ipsum: 3
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - looking: 2
+2025-06-04 09:37:45 [main] INFO 
+            by.mashnyuk.informationHandling.Main - - page: 2
+2025-06-04 09:37:45 [main] INFO 
             by.mashnyuk.informationHandling.Main - 
 === Vowel/Consonant Counts ===
-2025-06-04 00:01:25 [main] INFO 
+2025-06-04 09:37:45 [main] INFO 
             by.mashnyuk.informationHandling.Main - - 'It has survived - not only ( five ) centuries, but also the leap into electronic typesetting, remaining -2 essentially 7.714285714285714 unchanged.'
   Vowels: 39, Consonants: 62
-2025-06-04 00:01:25 [main] INFO 
+2025-06-04 09:37:45 [main] INFO 
             by.mashnyuk.informationHandling.Main - - 'It was popularised in the 906.6706935123043 with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.'
   Vowels: 65, Consonants: 105
-2025-06-04 00:01:25 [main] INFO 
+2025-06-04 09:37:45 [main] INFO 
             by.mashnyuk.informationHandling.Main - - 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.'
   Vowels: 39, Consonants: 61
-2025-06-04 00:01:25 [main] INFO 
+2025-06-04 09:37:45 [main] INFO 
             by.mashnyuk.informationHandling.Main - - 'The point of using 10.718012422360248 Ipsum is that it has a more - or - less normal distribution of letters, as opposed to using ( Content here ) , content here', making it look like readable English.'
   Vowels: 55, Consonants: 83
-2025-06-04 00:01:25 [main] INFO 
+2025-06-04 09:37:45 [main] INFO 
             by.mashnyuk.informationHandling.Main - - 'It is a -329.4166666666667 established fact that a reader will be of a page when looking at its layout.'
   Vowels: 28, Consonants: 38
-2025-06-04 00:01:25 [main] INFO 
+2025-06-04 09:37:45 [main] INFO 
             by.mashnyuk.informationHandling.Main - - 'Bye.'
   Vowels: 1, Consonants: 2

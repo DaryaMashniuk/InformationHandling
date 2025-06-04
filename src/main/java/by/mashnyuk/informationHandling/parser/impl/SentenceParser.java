@@ -1,8 +1,9 @@
-package by.mashnyuk.informationHandling.parser;
+package by.mashnyuk.informationHandling.parser.impl;
 
 import by.mashnyuk.informationHandling.entity.*;
 import by.mashnyuk.informationHandling.entity.impl.Lexeme;
 import by.mashnyuk.informationHandling.entity.impl.Sentence;
+import by.mashnyuk.informationHandling.parser.TextParser;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
